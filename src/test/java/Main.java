@@ -8,5 +8,6 @@ public class Main {
         driver.get("http://www.google.com");
         driver.navigate().to("http://www.google.com");
     }
+    // https://mvnrepository.com/ тут находится вся хрень для dependency
 
 }
